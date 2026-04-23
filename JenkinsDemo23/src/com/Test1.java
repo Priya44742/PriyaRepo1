@@ -7,5 +7,9 @@ public class Test1 {
 		System.out.println("Hello java");
         System.out.println("New Line added to Test1 class");
 	}
+	public void m1()
+	{
+		System.out.println("This is M1 method");
+	}
 
 }
