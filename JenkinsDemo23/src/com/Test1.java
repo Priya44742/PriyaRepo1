@@ -6,6 +6,7 @@ public class Test1 {
 	{
 		Test1 t = new Test1();
 		t.m1();
+		t.m2();
 		
 		System.out.println("Hello java");
         System.out.println("New Line added to Test1 class");
@@ -15,4 +16,8 @@ public class Test1 {
 		System.out.println("This is M1 method");
 	}
 
+	public void m2()
+	{
+		System.out.println("This is M2 method");
+	}
 }
